@@ -94,12 +94,6 @@ The dataset contains UPI transaction information, including:
 
 ---
 
-## Dashboard Preview
-
-(Add screenshots of all dashboard pages here.)
-
----
-
 ## 👩‍💻 Author
 
 **Aditi Landge**
