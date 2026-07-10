@@ -94,6 +94,6 @@ The dataset contains UPI transaction information, including:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Aditi Landge**
